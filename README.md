@@ -15,7 +15,7 @@
 ---
 
 ### 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mayanananana&show_icons=true&theme=radical)
 
 ---
 
